@@ -13,7 +13,7 @@
 
 /*PROBABLLY do not need most of these colours*/
 :root {
-  --bs-blue: #002cfe;
+  --bs-blue: #009dff;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
@@ -3040,11 +3040,11 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fee134; /*yellow*/
-  background-color: #002CFE;
+  background-color: #009dff;
   border-color: #fee134;
 }
 .btn-primary:hover {
-  color: #002CFE; /*#fff;*/
+  color: #009dff; /*#fff;*/
   background-color: #fee134; /*#cf5331;*/
   border-color: #c34e2e;
 }
@@ -3219,13 +3219,13 @@ textarea.form-control-lg {
 }
 
 .btn-light {
-  color: #ef3340;
+  color: #009dff;
   background-color: #fee134; /*#f8f9fa;*/
   border-color: #f8f9fa;
 }
 .btn-light:hover {
-  color: #f00; /*#fee134;*/
-  background-color: #ffd100; /*#f9fafb;*/
+  color: #fee134; /*#fee134;*/
+  background-color: #009dff; /*#f9fafb;*/
   border-color: #fee134; /*#f9fafb;*/
 }
 .btn-check:focus + .btn-light, .btn-light:focus {
@@ -7818,7 +7818,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #002CFE;
+  background-color: #009dff;
 }
 
 .bg-secondary {
@@ -11316,7 +11316,7 @@ body {
 }
 .text-yellow-75 {
   opacity: 00.75;
-  color: #cee134;
+  color: #cccc00;
 }
 
 .btn-xl {
@@ -11351,7 +11351,7 @@ hr.divider-light {
   color: #e20d01; /*#212529;*/
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: #002cfe;/*#6c757d*/
+  color: #009dff;/*#6c757d*/
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   font-size: 0.9rem;
@@ -11454,7 +11454,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fee134; /*#fff;*/
-  background: rgba(239, 51, 64, 0.95); /*rgba(239, 51, 64, 0.9);*/ /*(244, 98, 58, 0.9);*/
+  background: rgba(0, 157, 255, 0.95); /*rgba(239, 51, 64, 0.9);*/ /*(244, 98, 58, 0.9);*/
   transition: opacity 0.25s ease;
   text-align: center;
 }
@@ -11479,7 +11479,7 @@ header.masthead h1, header.masthead .h1 {
 
 
 h2, h3{
-  color: #002cfe;
+  color: #009dff;
 }
 .Gray{
   color: #212529;
